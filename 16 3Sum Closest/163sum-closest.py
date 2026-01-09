@@ -1,0 +1,36 @@
+class Solution(object):
+    def threeSumClosest(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        # Step 1: Sort the array to use the two-pointer approach
+        nums.sort()
+        n = len(nums)
+        # Initialize closest_sum with the sum of the first three elements
+        closest_sum = nums[0] + nums[1] + nums[2]
+        
+        # Step 2: Iterate through the array
+        for i in range(n - 2):
+            # Two pointers: left starts just after i, right starts at the end
+            left, right = i + 1, n - 1
+            
+            while left < right:
+                current_sum = nums[i] + nums[left] + nums[right]
+                
+                # If we found the exact target, return it immediately
+                if current_sum == target:
+                    return current_sum
+                
+                # Update closest_sum if the current_sum is nearer to the target
+                if abs(current_sum - target) < abs(closest_sum - target):
+                    closest_sum = current_sum
+                
+                # Move pointers based on whether current_sum is smaller or larger than target
+                if current_sum < target:
+                    left += 1
+                else:
+                    right -= 1
+                    
+        return closest_sum
