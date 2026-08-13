@@ -1,0 +1,18 @@
+import pandas as pd
+
+
+def find_investments(insurance: pd.DataFrame) -> pd.DataFrame:
+    # 1. Find all rows where tiv_2015 has at least one duplicate
+    dup_tiv_2015 = insurance.duplicated(subset=["tiv_2015"], keep=False)
+
+    # 2. Find all rows where the (lat, lon) combination is unique
+    unique_location = ~insurance.duplicated(subset=["lat", "lon"], keep=False)
+
+    # 3. Filter rows satisfying both criteria
+    valid_policies = insurance[dup_tiv_2015 & unique_location]
+
+    # 4. Sum the tiv_2016 values and round to 2 decimal places
+    result_val = round(valid_policies["tiv_2016"].sum(), 2)
+
+    # 5. Return the result in the requested DataFrame format
+    return pd.DataFrame({"tiv_2016": [result_val]})
