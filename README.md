@@ -190,4 +190,8 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
