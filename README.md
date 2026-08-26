@@ -132,6 +132,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -145,4 +146,9 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
