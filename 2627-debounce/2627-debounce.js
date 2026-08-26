@@ -4,15 +4,15 @@
  * @return {Function}
  */
 var debounce = function(fn, t) {
+    let timeoutId;
     
     return function(...args) {
+        // Clear any existing active timer to reset the delay window
+        clearTimeout(timeoutId);
         
-    }
+        // Setup a new timer to execute the function after 't' milliseconds
+        timeoutId = setTimeout(() => {
+            fn(...args);
+        }, t);
+    };
 };
-
-/**
- * const log = debounce(console.log, 100);
- * log('Hello'); // cancelled
- * log('Hello'); // cancelled
- * log('Hello'); // Logged at t=100ms
- */
