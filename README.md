@@ -147,6 +147,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -156,6 +157,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -184,4 +186,8 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
