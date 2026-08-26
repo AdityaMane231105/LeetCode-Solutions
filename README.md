@@ -141,6 +141,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [0643-maximum-average-subarray-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Array
 |  |
@@ -149,6 +150,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [0283-move-zeroes](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -161,6 +163,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
