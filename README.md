@@ -126,3 +126,15 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 [![Explore My Work](https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github)](https://github.com/AdityaMane231105)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+<!---LeetCode Topics End-->
