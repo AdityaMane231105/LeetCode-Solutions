@@ -159,6 +159,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -217,4 +219,12 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
