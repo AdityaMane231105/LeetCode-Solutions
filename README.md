@@ -135,6 +135,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,10 +171,12 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -194,4 +197,12 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
