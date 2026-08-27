@@ -133,6 +133,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -234,6 +235,11 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
