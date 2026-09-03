@@ -164,6 +164,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +212,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Database
 |  |
 | ------- |
