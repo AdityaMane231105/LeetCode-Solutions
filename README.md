@@ -248,4 +248,16 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
