@@ -236,6 +236,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0610-triangle-judgement](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
