@@ -226,6 +226,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -315,4 +316,8 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
