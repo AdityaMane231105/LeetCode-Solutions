@@ -136,6 +136,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [0394-decode-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -193,11 +194,13 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -207,6 +210,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
