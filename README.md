@@ -298,5 +298,6 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
