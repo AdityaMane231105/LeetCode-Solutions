@@ -167,6 +167,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3524-find-x-value-of-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -186,6 +187,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | ------- |
 | [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3524-find-x-value-of-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +226,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [3524-find-x-value-of-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
