@@ -167,6 +167,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3525-find-x-value-of-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -223,6 +224,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [3525-find-x-value-of-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -305,4 +307,8 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [0328-odd-even-linked-list](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
