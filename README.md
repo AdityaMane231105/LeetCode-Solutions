@@ -138,6 +138,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -189,6 +190,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | ------- |
 | [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3524-find-x-value-of-array-i](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
@@ -272,6 +274,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [0394-decode-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
