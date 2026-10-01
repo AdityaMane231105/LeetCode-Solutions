@@ -135,6 +135,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [0392-is-subsequence](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0649-dota2-senate) |
+| [1096-brace-expansion-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -205,6 +206,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -217,6 +219,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -277,6 +280,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | ------- |
 | [0394-decode-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -316,6 +320,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -340,4 +345,8 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
