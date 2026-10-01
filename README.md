@@ -140,6 +140,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -167,6 +168,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -207,6 +209,7 @@ I aim to understand **why** a solution works, **who** it is solving the problem 
 | [1657-determine-if-two-strings-are-close](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AdityaMane231105/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
